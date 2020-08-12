@@ -15,6 +15,8 @@ stores the wallpaper files ("TranscodedWallpaper").
 * https://github.com/bst27/dynamic-wallpaper
 
 **More References**:
+* Helpful: https://github.com/reujab/wallpaper
+* Helpful: https://github.com/robfig/cron
 * Helpful: https://golang.org/pkg/flag/
 * Helpful: https://gobyexample.com/command-line-flags
 * Helpful: https://stackoverflow.com/a/36419222
