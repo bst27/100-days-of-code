@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 2: August 13, Thursday
+
+**Today's Progress**: I created an app to notify about filesystem changes via webhooks.
+I also completed "Basic HTML and HTML5" and "Basic CSS" of the "Responsive Web Design
+Certification" from the [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: I wrote more code than yesterday and could reuse some code to speedup 
+project setup. The freeCodeCamp courses were pretty easy, but I wanted to start at
+the beginning.
+
+**Link(s) to work**:
+* https://github.com/bst27/fs-webhook
+
+**More References**:
+* Helpful: https://github.com/fsnotify/fsnotify
+* Helpful: https://webhook.site
+* Found: https://goreportcard.com
+
 ### Day 1: August 12, Wednesday
 
 **Today's Progress**: I created an app for dynamic wallpapers. 
