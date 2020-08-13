@@ -3,12 +3,14 @@
 ### Day 2: August 13, Thursday
 
 **Today's Progress**: I created an app to notify about filesystem changes via webhooks.
-I also completed "Basic HTML and HTML5" and "Basic CSS" of the "Responsive Web Design
-Certification" from the [freeCodeCamp](https://www.freecodecamp.org/).
+I also completed "Basic HTML and HTML5", "Basic CSS" and "Applied Visual Design" of the
+"Responsive Web Design Certification" from the [freeCodeCamp](https://www.freecodecamp.org/).
 
 **Thoughts**: I wrote more code than yesterday and could reuse some code to speedup 
-project setup. The freeCodeCamp courses were pretty easy, but I wanted to start at
-the beginning.
+project setup. The first freeCodeCamp courses were pretty easy, but I wanted to start at
+the beginning. The course about "Applied Visual Design" was very helpful to refresh my
+design knowledge, especially color theory, linear-gradient(), repeating-linear-gradient(),
+transform and all about css animations and keyframes. 
 
 **Link(s) to work**:
 * https://github.com/bst27/fs-webhook
