@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 3: August 14, Friday
+
+**Today's Progress**: I completed 3 courses at [freeCodeCamp](https://www.freecodecamp.org/):
+"Applied Accessibility", "Responsive Web Design Principles" and "CSS Grid" of the
+"Responsive Web Design Certification". Furthermore, I completed the first project at this
+certification and created a tribute page about Elon Musk. In addition I created an app to
+forward contact form submissions via webhook.
+
+**Thoughts**: I learned a lot in the 3 courses at freeCodeCamp. They were easy but I just
+had forgotten so many things and it was a good refresh. I am also very happy about how the
+browser support for all these cool features has improved. It got obvious I worked more at
+backend code than with frontend code in recent time.
+
+**Link(s) to work**:
+* https://github.com/bst27/go-contact
+* https://codepen.io/bst27/full/MWyyWwa
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* Helpful: https://github.com/gin-gonic/gin
+* Helpful: https://www.postman.com/
+* Helpful: https://webhook.site
+* Helpful: https://gobyexample.com/command-line-flags
+* Helpful: https://golang.org/pkg/flag/
+* Helpful: https://fonts.google.com/
+* Helpful: https://codepen.io/
+
 ### Day 2: August 13, Thursday
 
 **Today's Progress**: I created an app to notify about filesystem changes via webhooks.
