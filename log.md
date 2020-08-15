@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+
+### Day 4: August 15, Saturday
+
+**Today's Progress**: Today I completed the second project for the "Responsive Web Design
+Certification" at [freeCodeCamp](https://www.freecodecamp.org/) and spent the rest of the day
+working on a solution to improve the deployment of my static websites to AWS S3. 
+
+**Thoughts**: I am not satisfied with my progress today, because I spent too much time on
+improving my AWS S3 deployment. I hope this will pay off and save me time in the future. At
+least I have a good solution now which is automated, less error-prone and greatly simplifies
+defining custom metadata (headers) on S3 objects.
+
+**Link(s) to work**:
+* https://codepen.io/bst27/pen/KKzzWZX
+
+**More References**:
+* Helpful: https://developer.mozilla.org/de/docs/Web/CSS/background
+* Helpful: https://meyerweb.com/eric/tools/css/reset/
+* Helpful: https://www.w3schools.com/
+* Helpful: https://stackoverflow.com/
+* Helpful: https://fonts.google.com/
+* Helpful: https://github.com/golang-standards/project-layout/
+* Helpful: https://github.com/aws/aws-sdk-go/
+* Helpful: https://golang.org/pkg/net/http/#DetectContentType 
+* Helpful: https://gist.github.com/rayrutjes/db9b9ea8e02255d62ce2
+* Helpful: https://www.freeformatter.com/mime-types-list.html
+* Helpful: https://github.com/bep/s3deploy 
+* Helpful: https://stackoverflow.com/a/3232082 
+* Helpful: https://regex101.com/ 
+* Helpful: http://www.yamllint.com/
+
 ### Day 3: August 14, Friday
 
 **Today's Progress**: I completed 3 courses at [freeCodeCamp](https://www.freecodecamp.org/):
