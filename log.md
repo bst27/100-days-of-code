@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 5: August 16, Sunday
+
+**Today's Progress**: Today I solved 3 more projects and finally completed 
+the "Responsive Web Design Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: I am satisfied with the project results and happy to have the certification
+completed. Slowly it started to become boring, and I wanted to try something new.
+
+**Link(s) to work**:
+* https://codepen.io/bst27/full/rNeedvy
+* https://codepen.io/bst27/full/PoNNyMa
+* https://codepen.io/bst27/full/BaKKvWj
+
+**More References**:
+* Helpful: https://www.screentogif.com/
 
 ### Day 4: August 15, Saturday
 
