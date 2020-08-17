@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 6: August 17, Monday
+
+**Today's Progress**: Today I created an app to get sunrise and sunset times via
+an HTTP API. I also started with the "JavaScript Algorithms and Data Structures
+Certification" at [freeCodeCamp](https://www.freecodecamp.org/), read multiple
+articles which compared [React](https://reactjs.org/), [Vue.js](https://vuejs.org/)
+and [Angular](https://angular.io/) and spruced my profile
+at [Stack Overflow](https://stackoverflow.com/).
+
+**Thoughts**: Although React and Vue.js have far more stars at
+[Github](https://github.com/) than Angular I still prefer Angular because
+the job market for Angular seems better, it's backed by Google and it's a complete
+solution in a single package - perfect to get work done. It also uses
+[TypeScript](https://www.typescriptlang.org/) and having a type system is
+a good thing in my experience. 
+
+**Link(s) to work**:
+* https://github.com/bst27/sunrise-sunset-api
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* Helpful: https://github.com/kelvins/sunrisesunset
+* Helpful: https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
+* Helpful: https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd
+* Helpful: https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition
+
 ### Day 5: August 16, Sunday
 
 **Today's Progress**: Today I solved 3 more projects and finally completed 
