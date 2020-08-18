@@ -6,11 +6,13 @@
 about [Github actions](https://docs.github.com/en/actions) and created a
 workflow to build a project and publish artifacts. I will use the evening to complete a few steps in the
 "JavaScript Algorithms and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+P.S.: Published my [Gitea backup script for docker](https://gist.github.com/bst27/1bf1590c5ec0b8b1c331d2a03e237894).
 
 **Thoughts**: Feels like the job market for IT freelancers in Germany has been hit by Corona.
 
 **Link(s) to work**:
 * https://github.com/bst27/sunrise-sunset-api/blob/master/.github/
+* https://gist.github.com/bst27/1bf1590c5ec0b8b1c331d2a03e237894
 * https://www.freecodecamp.org/bst27
 
 **More References**:
