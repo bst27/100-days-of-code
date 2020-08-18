@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 7: August 18, Tuesday
+
+**Today's Progress**: Today I refined my profile at various job portals for freelancers. I also learned
+about [Github actions](https://docs.github.com/en/actions) and created a
+workflow to build a project and publish artifacts. I will use the evening to complete a few steps in the
+"JavaScript Algorithms and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: Feels like the job market for IT freelancers in Germany has been hit by Corona.
+
+**Link(s) to work**:
+* https://github.com/bst27/sunrise-sunset-api/blob/master/.github/
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://www.gulp.de/
+* https://www.freelancermap.de/
+* https://www.solcom.de/
+* https://www.malt.de/
+* http://www.twago.de/
+* https://www.freelance.de/
+* https://www.projektwerk.com/de
+* https://uplink.tech/
+* https://www.upwork.com/
+* https://www.freelancejunior.de
+* https://www.jobpushy.de/
+
 ### Day 6: August 17, Monday
 
 **Today's Progress**: Today I created an app to get sunrise and sunset times via
