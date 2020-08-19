@@ -4,17 +4,20 @@
 
 **Today's Progress**: Today I completed the "Basic Javascript" chapter of the "JavaScript Algorithms
 and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/) and read some
-articles about recursion and how to think recursively.
+articles about recursion and how to think recursively. I also restructured some of my Golang
+projects according to another [project layout](https://github.com/golang-standards/project-layout).
 
 **Thoughts**: Thinking recursively is still one of the tougher challenges for me. My thoughts start
 running in circles and my brain starts cooking.
 
 **Link(s) to work**:
 * https://www.freecodecamp.org/bst27
+* https://github.com/bst27/aws-cloudfront-invalidation-lambda
 
 **More References**:
 * https://medium.com/@daniel.oliver.king/getting-started-with-recursion-f89f57c5b60e
 * https://medium.com/swlh/how-to-think-recursively-solving-recursion-problems-in-4-steps-95a6d07aa866
+* https://github.com/golang-standards/project-layout
 
 ### Day 7: August 18, Tuesday
 
