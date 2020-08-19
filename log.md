@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 8: August 19, Wednesday
+
+**Today's Progress**: Today I completed the "Basic Javascript" chapter of the "JavaScript Algorithms
+and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/) and read some
+articles about recursion and how to think recursively.
+
+**Thoughts**: Thinking recursively is still one of the tougher challenges for me. My thoughts start
+running in circles and my brain starts cooking.
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://medium.com/@daniel.oliver.king/getting-started-with-recursion-f89f57c5b60e
+* https://medium.com/swlh/how-to-think-recursively-solving-recursion-problems-in-4-steps-95a6d07aa866
+
 ### Day 7: August 18, Tuesday
 
 **Today's Progress**: Today I refined my profile at various job portals for freelancers. I also learned
