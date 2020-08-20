@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 9: August 20, Thursday
+
+**Today's Progress**: Today I made some changes to my static website generator to support
+multi-language websites and page redirects. I also started to move some pages of my website
+and created redirects to prepare it for multi-language content. Will use the evening for
+some progress on my [freeCodeCamp](https://www.freecodecamp.org/) certification.
+
+**Thoughts**: Time is really running today. 
+
+**Link(s) to work**:
+* https://www.digitalpush.net/
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://www.staticgen.com/
+* https://support.google.com/webmasters/answer/182192?hl=en
+
 ### Day 8: August 19, Wednesday
 
 **Today's Progress**: Today I completed the "Basic Javascript" chapter of the "JavaScript Algorithms
