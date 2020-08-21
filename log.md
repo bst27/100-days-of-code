@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 10: August 21, Friday
+
+**Today's Progress**: Today I started developing an app to manage comments
+for static websites and made some progress on the "JavaScript Algorithms
+and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: I had not much time to do some personal programming today.
+Nevertheless, I did at least a little programming in the late evening and
+during a train drive.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+
 ### Day 9: August 20, Thursday
 
 **Today's Progress**: Today I made some changes to my static website generator to support
