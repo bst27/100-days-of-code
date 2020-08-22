@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 11: August 22, Saturday
+
+**Today's Progress**: Today I added the first actions to my app
+for managing static website comments and made some progress on the
+"JavaScript Algorithms and Data Structures Certification"
+at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: Did some thoughts about "code as a liability"
+because of a short question on Twitter.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://www.openapis.org/
+* https://swagger.io/
+* https://www.postman.com/
+* https://github.com/gin-gonic
+
 ### Day 10: August 21, Friday
 
 **Today's Progress**: Today I started developing an app to manage comments
