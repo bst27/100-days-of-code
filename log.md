@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 12: August 23, Sunday
+
+**Today's Progress**: Today I added support for saving to / reading from
+database to my app for managing static website comments and made some progress on the
+"JavaScript Algorithms and Data Structures Certification"
+at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: Read some good articles about handling persistence
+in general and handling persistence in Go specifically.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://eli.thegreenplace.net/2019/design-patterns-in-gos-databasesql-package/
+* https://www.alexedwards.net/blog/organising-database-access
+* https://hackernoon.com/golang-clean-archithecture-efd6d7c43047
+* https://martinfowler.com/eaaCatalog/repository.html
+* https://github.com/mattn/go-sqlite3
+* https://github.com/golang/go/wiki/SQLDrivers
+* https://golang.org/pkg/database/sql/
+* https://www.sqlite.org/inmemorydb.html
+* https://github.com/google/uuid
+
 ### Day 11: August 22, Saturday
 
 **Today's Progress**: Today I added the first actions to my app
