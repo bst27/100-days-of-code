@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 13: August 24, Monday
+
+**Today's Progress**: Today I made some progress on the "JavaScript Algorithms and Data Structures Certification"
+at [freeCodeCamp](https://www.freecodecamp.org/) and worked on my app for managing static website comments:
+Comments are available to the frontend now and I also added support for cross-origin requests.
+
+**Thoughts**: Rate limiting on a bigger scale is quite an interesting topic.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://developer.mozilla.org/en-US/docs/Web/API/URL_API
+* https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+* https://github.com/gin-contrib/cors
+* https://www.alexedwards.net/blog/how-to-rate-limit-http-requests
+
 ### Day 12: August 23, Sunday
 
 **Today's Progress**: Today I added support for saving to / reading from
