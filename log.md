@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 14: August 25, Tuesday
+
+**Today's Progress**: Today I added support for config files and cli commands to my app for
+managing static website comments. I even made some progress at 
+[freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: No thoughts today.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://github.com/spf13/cobra
+
 ### Day 13: August 24, Monday
 
 **Today's Progress**: Today I made some progress on the "JavaScript Algorithms and Data Structures Certification"
