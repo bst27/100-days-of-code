@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 15: August 26, Wednesday
+
+**Today's Progress**: Today I worked on my app for managing static website comments: I made the database configurable,
+added an author field for comments and support to notify about new comments via webhook. I also made some progress 
+at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: No thoughts today.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://goinbigdata.com/golang-wait-for-all-goroutines-to-finish/
+* https://webhook.site/
+* https://en.wikipedia.org/wiki/Webhook
+
 ### Day 14: August 25, Tuesday
 
 **Today's Progress**: Today I added support for config files and cli commands to my app for
