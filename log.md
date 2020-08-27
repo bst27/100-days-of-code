@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 16: August 27, Thursday
+
+**Today's Progress**: Today I finished the "ES6" section of the "JavaScript Algorithms and Data Structures Certification"
+and started with "Regular Expressions" at [freeCodeCamp](https://www.freecodecamp.org/). I also started with
+[Angular](https://angular.io/) and created the sample app. 
+
+**Thoughts**: Thanks to Twitter I found [Responsively](https://responsively.app/), an app which greatly
+simplifies developing responsive websites and started backing it via [Open Collective](https://opencollective.com/).
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://responsively.app/
+* https://opencollective.com/responsively
+
 ### Day 15: August 26, Wednesday
 
 **Today's Progress**: Today I worked on my app for managing static website comments: I made the database configurable,
