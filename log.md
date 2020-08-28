@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 17: August 28, Friday
+
+**Today's Progress**: Today I added multi-language support to my [website](https://www.digitalpush.net/) and made
+some progress in the "Regular Expressions" section of the "JavaScript Algorithms and Data Structures Certification"
+at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: I am excited to see how my multi-language website will perform in the next months. I am running websites
+in German language for German visitors for years but have no experience with international traffic. 
+
+**Link(s) to work**:
+* https://www.digitalpush.net/
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+
 ### Day 16: August 27, Thursday
 
 **Today's Progress**: Today I finished the "ES6" section of the "JavaScript Algorithms and Data Structures Certification"
