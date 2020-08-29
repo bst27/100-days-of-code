@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+If you are interested in my coding journey feel free to visit my coding diary at:
+
+https://www.digitalpush.net/en/100-days-of-code/
+
+### Day 18: August 29, Saturday
+
+**Today's Progress**: Today I completed the [Angular](https://angular.io/) tutorials about routing, data handling
+and forms and will use the evening to learn about deployment. I also made some progress in the "Regular Expressions"
+section of the "JavaScript Algorithms and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: I have written down some ideas for blog posts which came to my mind because of questions on Twitter. For
+a long time I did not really understand the hype about Twitter but recently I started to like it, especially after 
+diving deeper into the dev community. I also appreciate how international it is compared to Facebook, Instagram etc. It
+is really easy to get in contact with people interested in the same topic from all around the world. 
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://angular.io/start
+* https://stackblitz.com/
+
 ### Day 17: August 28, Friday
 
 **Today's Progress**: Today I added multi-language support to my [website](https://www.digitalpush.net/) and made
