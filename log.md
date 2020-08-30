@@ -4,6 +4,24 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 19: August 30, Sunday
+
+**Today's Progress**: Today I added an [Angular](https://angular.io/) backend to my
+[app](https://github.com/bst27/plaudern) for managing static website
+comments and finished the "Regular Expressions" chapter of the "JavaScript Algorithms and Data Structures
+Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: I like that many popular frameworks like Angular or React nowadays come with a CLI to
+initialize new projects and generate code scaffolds.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://regex101.com/
+* https://github.com/gin-gonic/gin
+
 ### Day 18: August 29, Saturday
 
 **Today's Progress**: Today I completed the [Angular](https://angular.io/) tutorials about routing, data handling
