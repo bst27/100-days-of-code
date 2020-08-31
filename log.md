@@ -24,7 +24,7 @@ comments and added support to show comments.
 
 ### Day 19: August 30, Sunday
 
-**Today's Progress**: Today I added an [Angular](https://angular.io/) backend to my
+**Today's Progress**: Today I added an [Angular](https://angular.io/) frontend to my
 [app](https://github.com/bst27/plaudern) for managing static website
 comments and finished the "Regular Expressions" chapter of the "JavaScript Algorithms and Data Structures
 Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
