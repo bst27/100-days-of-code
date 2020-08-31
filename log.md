@@ -4,6 +4,24 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 20: August 31, Monday
+
+**Today's Progress**: Today I finished the "Debugging" chapter of the "JavaScript Algorithms and Data Structures
+Certification" at [freeCodeCamp](https://www.freecodecamp.org/). In addition, I worked on the
+[Angular](https://angular.io/) frontend of my [app](https://github.com/bst27/plaudern) for managing static website
+comments and added support to show comments.
+
+**Thoughts**: Thanks to Angular I had my first contact to [RxJS](https://www.learnrxjs.io/) and its observables and operators. 
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://youtu.be/Fdf5aTYRW0E
+* https://jsonplaceholder.typicode.com/
+* https://wiki.owasp.org/index.php/OWASP_Guide_Project
+
 ### Day 19: August 30, Sunday
 
 **Today's Progress**: Today I added an [Angular](https://angular.io/) backend to my
