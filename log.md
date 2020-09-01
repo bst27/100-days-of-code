@@ -4,6 +4,22 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 21: September 01, Tuesday
+
+**Today's Progress**: Today I added support to receive comments via an HTTP endpoint in the [Angular](https://angular.io/)
+frontend of my [app](https://github.com/bst27/plaudern) for managing static website comments and published a blog
+post about [72+ Great Sources for Web Icons](https://www.digitalpush.net/en/great-sources-for-free-web-icons/). I will
+use the evening for some progress at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: 
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.digitalpush.net/en/great-sources-for-free-web-icons/
+
+**More References**:
+* https://sortmylist.com/
+
 ### Day 20: August 31, Monday
 
 **Today's Progress**: Today I finished the "Debugging" chapter of the "JavaScript Algorithms and Data Structures
