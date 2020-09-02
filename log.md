@@ -4,6 +4,28 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 22: September 02, Wednesday
+
+**Today's Progress**: Today I mainly worked on my [app](https://github.com/bst27/plaudern) for managing static website
+comments: I added support to sanitize user input, improved the Angular development environment for faster development by
+adding a proxy config, improved the styling of the webinterface and added routing to show comment details. Additionally,
+I published a blog post: [How to run a local webserver in seconds](https://www.digitalpush.net/en/how-to-run-a-webserver-in-seconds/).
+I will use the evening for some progress at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: I really enjoy working with PhpStorm and Angular. The learning curve is not too steep for me. Of course,
+I already have years of experience in web development and worked with TypeScript before. But I think the Angular docs
+and the CLI with code generation greatly simplify everything.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.digitalpush.net/en/how-to-run-a-webserver-in-seconds/
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://github.com/microcosm-cc/bluemonday
+* https://angular.io/guide/build
+* https://stackoverflow.com/a/43492433
+
 ### Day 21: September 01, Tuesday
 
 **Today's Progress**: Today I added support to receive comments via an HTTP endpoint in the [Angular](https://angular.io/)
