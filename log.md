@@ -4,6 +4,24 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 23: September 03, Thursday
+
+**Today's Progress**: Today I added [Angular Material](https://material.angular.io/) to my 
+[app](https://github.com/bst27/plaudern) for managing static website comments. Additionally,
+I made some progress at the "Basic Algorithm Scripting" chapter of the "JavaScript Algorithms and Data Structures
+Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: It has been really easy to start using Angular Material in an existing Angular project. The docs
+are quiet good. Thanks to Twitter I found more helpful websites like Indie Hackers or the Hemingway App today.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://www.indiehackers.com/products
+* http://hemingwayapp.com
+
 ### Day 22: September 02, Wednesday
 
 **Today's Progress**: Today I mainly worked on my [app](https://github.com/bst27/plaudern) for managing static website
