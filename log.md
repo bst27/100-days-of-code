@@ -4,6 +4,41 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 24: September 04, Friday
+
+**Today's Progress**: Today I totally went down the rabbit hole. All started with thinking about how
+to manage state in my Angular [app](https://github.com/bst27/plaudern) for managing static website comments,
+
+**Thoughts**: I think it is quite distressing how bad many websites, web apps and especially single page apps (SPAs)
+fail at managing state. There are so many pitfalls and race conditions under the hood waiting to occur. My experience is
+that even software developers with a few years experience are often not aware of the problems caused by failing at managing
+state. I think I should definitely write a blog post about this topic on my [blog](https://www.digitalpush.net/en/) or
+at least publish a resource list with great existing articles to read about managing state.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://blog.nrwl.io/managing-state-in-angular-applications-22b75ef5625f
+* https://blog.angular-university.io/rxjs-error-handling/
+* https://flatlogic.com/blog/top-angular-open-source-projects/
+* https://github.com/storybookjs/storybook
+* https://github.com/angular/angularfire
+* https://ngrx.io/guide/store
+* https://itnext.io/ngrx-best-practices-for-enterprise-angular-applications-6f00bcdf36d7
+* https://github.com/immerjs/immer
+* https://lodash.com/
+* https://scarybeastsecurity.blogspot.com/2009/12/generic-cross-browser-cross-domain.html
+* https://www.html5rocks.com/en/tutorials/security/content-security-policy/
+* https://en.m.wikipedia.org/wiki/Content_Security_Policy
+* https://stackoverflow.com/q/20870386/2745527
+* https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage
+* https://scotch.io/bar-talk/why-jwts-suck-as-session-tokens
+* https://blog.logrocket.com/jwt-authentication-best-practices/
+* https://stackoverflow.com/q/42373191/2745527
+* https://ngrx.io/guide/store/metareducers
+
 ### Day 23: September 03, Thursday
 
 **Today's Progress**: Today I added [Angular Material](https://material.angular.io/) to my 
@@ -12,7 +47,7 @@ I made some progress at the "Basic Algorithm Scripting" chapter of the "JavaScri
 Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
 
 **Thoughts**: It has been really easy to start using Angular Material in an existing Angular project. The docs
-are quiet good. Thanks to Twitter I found more helpful websites like Indie Hackers or the Hemingway App today.
+are quite good. Thanks to Twitter I found more helpful websites like Indie Hackers or the Hemingway App today.
 
 **Link(s) to work**:
 * https://github.com/bst27/plaudern
