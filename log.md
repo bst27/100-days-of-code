@@ -7,7 +7,7 @@ https://www.digitalpush.net/en/100-days-of-code/
 ### Day 24: September 04, Friday
 
 **Today's Progress**: Today I totally went down the rabbit hole. All started with thinking about how
-to manage state in my Angular [app](https://github.com/bst27/plaudern) for managing static website comments,
+to manage state in my Angular [app](https://github.com/bst27/plaudern) for managing static website comments.
 
 **Thoughts**: I think it is quite distressing how bad many websites, web apps and especially single page apps (SPAs)
 fail at managing state. There are so many pitfalls and race conditions under the hood waiting to occur. My experience is
