@@ -4,6 +4,27 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 25: September 05, Saturday
+
+**Today's Progress**: Today I added better state management to my Angular [app](https://github.com/bst27/plaudern) for
+managing static website comments using [NgRx](https://ngrx.io/).
+
+**Thoughts**: There are quite some balls to juggle with when starting with Angular like TypeScript, Components,
+Observers, Angular Material, State Management with NgRx using Stores, Reducers, Actions, Effects or something
+completely different. How to handle routing and authentication, environment configurations, simplifying debugging
+and testing and much more. So far my experience is better than with React though. Mainly because it is a more 
+opinionated and extensive solution. So at least you know which balls you have to juggle and do not spend too much
+time in thinking about how many and which balls you have to juggle. I like it so far.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://ngrx.io/
+* https://www.typescriptlang.org/
+* https://material.angular.io/
+
 ### Day 24: September 04, Friday
 
 **Today's Progress**: Today I totally went down the rabbit hole. All started with thinking about how
