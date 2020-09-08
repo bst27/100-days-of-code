@@ -14,7 +14,7 @@ road warrior.
 
 **Thoughts**: In comparison to other VPN software Wireguard has been really easy to setup. The performance
 is amazing, especially when I compare it to the previous AVM router + IPsec VPN based solution. I cannot measure
-any difference during speedtests whith VPN enabled and can saturate the full bandwidth of my internet connection
+any difference during speedtests with VPN enabled and can saturate the full bandwidth of my internet connection
 with 106 mbit/s upload and 46 mbit/s download.
 
 **Link(s) to work**:
