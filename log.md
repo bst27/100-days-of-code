@@ -4,6 +4,21 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 27: September 07, Monday
+
+**Today's Progress**: Today I worked on the server configuration for deploying my [app](https://github.com/bst27/plaudern)
+for managing static website comments: To allow the Angular router to do its work I had to change how 404 errors
+are handled on the [gin-gonic](https://gin-gonic.com/) backend.
+
+**Thoughts**:
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://angular.io/guide/deployment#server-configuration
+
 ### Day 26: September 06, Sunday
 
 **Today's Progress**: Today I added support to publish/revoke comments in my [app](https://github.com/bst27/plaudern)
