@@ -4,6 +4,24 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 28: September 08, Tuesday
+
+**Today's Progress**: Today I have been quite busy but at least I made some progress at the
+"Basic Algorithm Scripting" chapter of the "JavaScript Algorithms and Data Structures Certification" at
+[freeCodeCamp](https://www.freecodecamp.org/). I also setup a [Wireguard](https://www.wireguard.com/) VPN
+server on a [Raspberry Pi 4](https://www.raspberrypi.org/) for better VPN performance when working as a
+road warrior. 
+
+**Thoughts**: In comparison to other VPN software Wireguard has been really easy to setup. The performance
+is amazing, especially when I compare it to the previous AVM router + IPsec VPN based solution. I cannot measure
+any difference during speedtests whith VPN enabled and can saturate the full bandwidth of my internet connection
+with 106 mbit/s upload and 46 mbit/s download.
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+
 ### Day 27: September 07, Monday
 
 **Today's Progress**: Today I worked on the server configuration for deploying my [app](https://github.com/bst27/plaudern)
