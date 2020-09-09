@@ -4,6 +4,18 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 29: September 09, Wednesday
+
+**Today's Progress**: Today I completed the "Basic Algorithm Scripting" chapter of the "JavaScript Algorithms
+and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: 
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+
 ### Day 28: September 08, Tuesday
 
 **Today's Progress**: Today I have been quite busy but at least I made some progress at the
