@@ -4,6 +4,18 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 33: September 13, Sunday
+
+**Today's Progress**: Today I made some progress at the "Object Oriented Programming" chapter of the "JavaScript
+Algorithms and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: 
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+
 ### Day 32: September 12, Saturday
 
 **Today's Progress**: Today I published a blog post about 
