@@ -4,6 +4,29 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 36: September 16, Wednesday
+
+**Today's Progress**: Today I prepared the Angular webinterface of my [app](https://github.com/bst27/plaudern) for
+managing static website comments to handle authentication and made some progress at the "Functional Programming"
+chapter of the "JavaScript Algorithms and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: Doing website authentication right is not a piece of cake. There are so many pitfalls and
+things to consider: CSRF, sessions, captchas, storing credentials, password recovery, preventing (distributed)
+attacks, 2FA and much more. In my opinion one should stick with the best practices and proven standards to
+counteract this and avoid rolling out a custom solution by all means.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://angular.io/guide/router-tutorial-toh#milestone-5-route-guards
+* https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
+* https://stackoverflow.com/a/477578
+* https://rxjs-dev.firebaseapp.com/guide/operators
+* https://pdos.csail.mit.edu/papers/webauth:sec10.pdf
+* https://en.wikipedia.org/wiki/HTTP%2BHTML_form-based_authentication
+
 ### Day 35: September 15, Tuesday
 
 **Today's Progress**: Today I made some progress at the "Functional Programming" chapter of the "JavaScript
