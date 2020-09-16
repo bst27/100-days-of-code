@@ -4,6 +4,24 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 35: September 15, Tuesday
+
+**Today's Progress**: Today I made some progress at the "Functional Programming" chapter of the "JavaScript
+Algorithms and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: I have been quite busy the last days because I bought a new laptop and had to
+setup the new system and prepare my working environment. I picked the HP ZBook 15V G5 Mobile
+Workstation with a 6-core Intel i7-9750H CPU, 32 GB RAM and a 4K display and so far I am
+pleased with the choice. As always I had a few minor problems at first like getting my 4K
+multi-monitor setup running at 60 Hz with the Thunderbolt 3 dock I bought with the laptop
+but after some fiddling I have been able to fix these problems. I hope to pick up speed
+again with my coding journey tomorrow.
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+
 ### Day 34: September 14, Monday
 
 **Today's Progress**: Today I completed the "Object Oriented Programming" chapter of the "JavaScript
