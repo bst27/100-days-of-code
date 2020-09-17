@@ -4,6 +4,27 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 37: September 17, Thursday
+
+**Today's Progress**: Today I added a login form and a loading dialog to the Angular webinterface of my
+[app](https://github.com/bst27/plaudern) for managing static website comments. I will use the evening to make some
+progress at the "Functional Programming" chapter of the "JavaScript Algorithms and Data Structures
+Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**:
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://unix.stackexchange.com/a/204619
+* https://rxjs-dev.firebaseapp.com/guide/subject#behaviorsubject
+* https://material.angular.io/
+* https://www.siteinspire.com/
+* https://cloudinary.com/
+* https://carbon.now.sh/
+
 ### Day 36: September 16, Wednesday
 
 **Today's Progress**: Today I prepared the Angular webinterface of my [app](https://github.com/bst27/plaudern) for
