@@ -4,6 +4,26 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 38: September 18, Friday
+
+**Today's Progress**: Today I made a few small improvements to [Plaudern](https://github.com/bst27/plaudern), a
+standalone solution for managing website comments, like redirecting to the homepage after a successful login. I also 
+made some progress at the "Functional Programming" chapter of the "JavaScript Algorithms and Data Structures
+Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: Twitter is really a great source to explore tech trends and useful resources. Today I stumbled
+across a few great websites for free illustrations.
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://lukaszadam.com/illustrations
+* https://www.humaaans.com/
+* https://undraw.co/illustrations
+* https://illlustrations.co/
+
 ### Day 37: September 17, Thursday
 
 **Today's Progress**: Today I added a login form and a loading dialog to the Angular webinterface of my
