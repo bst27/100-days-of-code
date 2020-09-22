@@ -4,6 +4,19 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 39: September 19, Saturday
+
+**Today's Progress**: Today I made some progress at the "Functional Programming" chapter of the "JavaScript
+Algorithms and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: 
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* http://manpages.ubuntu.com/manpages/bionic/man1/host.1.html
+
 ### Day 38: September 18, Friday
 
 **Today's Progress**: Today I made a few small improvements to [Plaudern](https://github.com/bst27/plaudern), a
