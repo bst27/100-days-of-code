@@ -4,6 +4,25 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 41: September 21, Monday
+
+**Today's Progress**: Today I added XSRF protection to my Angular app [Plaudern](https://github.com/bst27/plaudern),
+a standalone solution for managing website comments, and made some progress at the "Functional Programming"
+chapter of the "JavaScript Algorithms and Data Structures Certification"
+at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: 
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://stackoverflow.com/questions/5207160/what-is-a-csrf-token-what-is-its-importance-and-how-does-it-work
+* https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html
+* https://angular.io/guide/http#security-xsrf-protection
+* https://developers.google.com/web/fundamentals/security/csp
+
 ### Day 40: September 20, Sunday
 
 **Today's Progress**: Today I added password authentication (login/logout) to protect the Angular webinterface 
