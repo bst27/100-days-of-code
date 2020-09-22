@@ -4,6 +4,18 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 42: September 22, Tuesday
+
+**Today's Progress**: Today I made some progress at the "Functional Programming" chapter of the "JavaScript
+Algorithms and Data Structures Certification" at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: 
+
+**Link(s) to work**:
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+
 ### Day 41: September 21, Monday
 
 **Today's Progress**: Today I added XSRF protection to my Angular app [Plaudern](https://github.com/bst27/plaudern),
