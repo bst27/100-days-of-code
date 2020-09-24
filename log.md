@@ -4,6 +4,23 @@ If you are interested in my coding journey feel free to visit my coding diary at
 
 https://www.digitalpush.net/en/100-days-of-code/
 
+### Day 44: September 24, Thursday
+
+**Today's Progress**: Today I tried to add a strict Content Security Policy (CSP) to my Angular app
+[Plaudern](https://github.com/bst27/plaudern), a standalone solution for managing website comments, and made some
+progress at the "Functional Programming" chapter of the "JavaScript Algorithms and Data Structures Certification"
+at [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Thoughts**: 
+
+**Link(s) to work**:
+* https://github.com/bst27/plaudern
+* https://www.freecodecamp.org/bst27
+
+**More References**:
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
+* https://developers.google.com/web/fundamentals/security/csp
+
 ### Day 43: September 23, Wednesday
 
 **Today's Progress**: Today I included the web fonts which have been hosted at Google so far into my Angular app
